@@ -1,0 +1,1 @@
+ssh -i "isfo.pem" root@ec2-54-237-227-88.compute-1.amazonaws.com
